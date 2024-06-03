@@ -1,6 +1,7 @@
 ### https://mmc-eta.vercel.app/index.html
-### http://127.0.0.1:5500/html-mmc/product.html
-### http://127.0.0.1:5500/html-mmc/search-page.html
-### http://127.0.0.1:5500/html-mmc/sample-request.html
-### http://127.0.0.1:5500/html-mmc/contact-us.html
-### http://127.0.0.1:5500/html-mmc/404.html
+### http://mmc-eta.vercel.app/product.html
+### http://mmc-eta.vercel.app/search-page.html
+### http://mmc-eta.vercel.app/sample-request.html
+### http://mmc-eta.vercel.app/contact-us.html
+### http://mmc-eta.vercel.app/404.html
+### http://mmc-eta.vercel.app/page.html
