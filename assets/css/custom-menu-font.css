@@ -2,14 +2,13 @@
 
 @font-face {
   font-family: "custom-menu-font";
-  src:url("fonts/custom-menu-font.eot");
-  src:url("fonts/custom-menu-font.eot?#iefix") format("embedded-opentype"),
-    url("fonts/custom-menu-font.woff") format("woff"),
-    url("fonts/custom-menu-font.ttf") format("truetype"),
-    url("fonts/custom-menu-font.svg#custom-menu-font") format("svg");
+  src:url("../assets/fonts/custom-menu-font.eot");
+  src:url("../assets/fonts/custom-menu-font.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/custom-menu-font.woff") format("woff"),
+    url("../assets/fonts/custom-menu-font.ttf") format("truetype"),
+    url("../assets/fonts/custom-menu-font.svg#custom-menu-font") format("svg");
   font-weight: normal;
   font-style: normal;
-
 }
 
 [data-icon]:before {

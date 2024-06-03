@@ -2,14 +2,13 @@
 
 @font-face {
   font-family: "mmc-font";
-  src:url("fonts/mmc-font.eot");
-  src:url("fonts/mmc-font.eot?#iefix") format("embedded-opentype"),
-    url("fonts/mmc-font.woff") format("woff"),
-    url("fonts/mmc-font.ttf") format("truetype"),
-    url("fonts/mmc-font.svg#mmc-font") format("svg");
+  src:url("../assets/fonts/mmc-font.eot");
+  src:url("../assets/fonts/mmc-font.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/mmc-font.woff") format("woff"),
+    url("../assets/fonts/mmc-font.ttf") format("truetype"),
+    url("../assets/fonts/mmc-font.svg#mmc-font") format("svg");
   font-weight: normal;
   font-style: normal;
-
 }
 
 [data-icon]:before {
