@@ -1,1 +1,1 @@
-https://mmc-eta.vercel.app/search-page.html
+https://mmc-eta.vercel.app/index.html
