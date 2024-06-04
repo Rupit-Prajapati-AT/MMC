@@ -784,7 +784,8 @@ body {
     width: 100%;
 }
 
-.page_area h2 {
+.page-not-found-box h1,
+.page_area h1 {
     color: #E12F35;
     text-transform: uppercase;
     font-weight: bold;
